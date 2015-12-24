@@ -1,7 +1,7 @@
 $SCRIPT = <<-SCRIPT
 which cmake gcc g++ || {
   sudo apt-get update
-  sudo apt-get install -y cmake gcc g++
+  sudo apt-get install -y cmake gcc g++ build-essential
 }
 SCRIPT
 

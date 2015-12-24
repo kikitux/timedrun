@@ -10,3 +10,4 @@ timedrun
 .idea/
 .DS_Store
 t/
+.vagrant/
