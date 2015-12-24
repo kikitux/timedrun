@@ -64,7 +64,4 @@ ret: 0
 run 2 time = 0.019963 seconds                                                                                                                                                                           
 Total time = 0.039315 seconds                                                                                                                                                                           
 
-real    0m0.041s                                                                                                                                                                                        
-user    0m0.000s                                                                                                                                                                                        
-sys     0m0.000s                                     
 ```
