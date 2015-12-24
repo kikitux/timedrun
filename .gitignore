@@ -1,0 +1,13 @@
+.bundle/
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Makefile
+Testing/
+Vagrantfile
+cmake_install.cmake
+timedrun
+*.log
+.idea/
+.DS_Store
+
