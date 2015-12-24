@@ -1,3 +1,15 @@
+## Pre requirements
+
+This projects use gcc and cmake.
+
+This has been tested on OSX El Capitan, Ubuntu 14.04 and Oracle Linux 6.
+
+If you are in ubuntu:
+
+```bash
+sudo apt-get update && sudo apt-get install -y cmake gcc g++
+```
+
 ## How to test
 
 ```bash

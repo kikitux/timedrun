@@ -4,7 +4,6 @@ CMakeFiles/
 CTestTestfile.cmake
 Makefile
 Testing/
-Vagrantfile
 cmake_install.cmake
 timedrun
 *.log
