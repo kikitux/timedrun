@@ -5,7 +5,6 @@
 #ifndef TIMEDRUN_TIMEDRUN_H
 #define TIMEDRUN_TIMEDRUN_H
 
-
 struct thetimes {
     double min;
     double avg;
@@ -15,5 +14,4 @@ struct thetimes {
 };
 
 extern struct thetimes timedrun(long int, char *);
-
 #endif //TIMEDRUN_TIMEDRUN_H
